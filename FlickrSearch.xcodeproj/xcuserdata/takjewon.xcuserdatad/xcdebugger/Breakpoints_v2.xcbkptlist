@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "70C290CD-CD83-46A7-8E1C-34491749A9E9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B8897AF-9413-405A-88D5-D4DD19B1844B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrSearch/FlickrFiles/FlickrPhtosViewController.swift"
+            startingColumnNumber = "34"
+            endingColumnNumber = "60"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "FlickrPhtosViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
